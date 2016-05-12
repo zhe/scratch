@@ -1,0 +1,13 @@
+@import '_theme';
+
+// Styles below will NOT be included in final output stylesheet
+body {
+  padding-top: 200px;
+  padding-bottom: 200px;
+  background-color: #fff;
+}
+
+.scratch {
+  margin: 0 auto;
+  max-width: 700px;
+}
